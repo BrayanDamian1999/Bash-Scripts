@@ -1,0 +1,20 @@
+##########################
+##Manejo de Archivos
+##########################
+
+alias ll='ls -alFh'
+alias rm='rm -i'
+alias cp='cp -iv'
+alias mv='mv -iv'
+alias mkdir='mkdir -pv'
+alias grep='grep --color=auto'
+alias df='df -h'
+alias du='du -h'
+alias untar='tar -xzvf'
+
+##########################
+##Extras
+##########################
+alias cl="clear"
+alias gitup="bash /The/path/of/gitup.sh"
+alias nsc="bash /The/path/of/newscript.sh"
