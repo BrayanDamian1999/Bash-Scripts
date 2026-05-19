@@ -2,6 +2,9 @@
 # Script para instalar Node Exporter de Prometheus en un sistema Linux (ARMv7 o AMD64)
 # Este script descarga, instala y configura Node Exporter como un servicio systemd.
 # Variables
+#
+# AUTHOR:
+# Brayan Noel Espinosa Damián
 VERSION="1.9.1"
 ARCH="linux-amd64" #linux-armv7" # Cambiar a "linux-amd64" para sistemas x86_64
 USER="nodeusr"

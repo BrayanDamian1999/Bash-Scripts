@@ -4,6 +4,9 @@
 # It generates a timestamped .tar.gz file and stores it in /home/usuario/backups.
 # Usage: ./backup.sh <directory1> [directory2 ...]
 # Example: ./backup.sh /etc /var/log
+#
+# AUTHOR:
+# Brayan Noel Espinosa Damián
 
 set -euo pipefail
 

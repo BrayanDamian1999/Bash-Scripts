@@ -2,7 +2,10 @@
 # This script (server-stats.sh) collects and displays basic server performance statistics.  
 # It shows the total CPU usage, memory usage (used vs. free with percentage), disk usage (used vs. free with percentage),  
 # and lists the top 5 processes consuming the most CPU and memory.  
-# It is designed to run on any Linux server for quick health and performance monitoring.  
+# It is designed to run on any Linux server for quick health and performance monitoring. 
+#
+# AUTHOR:
+# Brayan Noel Espinosa Damián 
 
 echo "====================================="
 echo " Server Performance Statistics"

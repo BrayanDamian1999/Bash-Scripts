@@ -16,6 +16,9 @@
 #   ./script.sh             # If no message is provided, it uses date/time.
 #   alias gitup='bash /path/of/the/script/gitup.sh'
 #   gitup "Commit message"
+#
+# AUTHOR:
+# Brayan Noel Espinosa Damián
 # ------------------------------------------------------------------------------
 
 set -euo pipefail

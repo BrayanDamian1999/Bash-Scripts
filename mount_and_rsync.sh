@@ -1,5 +1,7 @@
 #!/bin/bash
-
+#
+# AUTHOR:
+# Brayan Noel Espinosa Damián
 set -e
 
 # =========================

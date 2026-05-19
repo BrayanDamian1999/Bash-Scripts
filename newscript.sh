@@ -1,7 +1,10 @@
 #!/bin/bash
 # This script creates a new Bash script file with a basic template.
 # It checks if a filename is provided, appends ".sh" if no extension is given,
-# writes a minimal script header, and makes the file executable.
+# writes a minimal script header, and makes the file executable. 
+#
+# AUTHOR:
+# Brayan Noel Espinosa Damián
 set -euo pipefail
 
 name=$1

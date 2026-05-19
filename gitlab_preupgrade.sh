@@ -6,6 +6,9 @@
 # The script is intended to provide administrators with a quick overview  
 # before performing a GitLab upgrade, ensuring that the system is stable  
 # and ready for the update.
+#
+# AUTHOR:
+# Brayan Noel Espinosa Damián
 
 
 set -euo pipefail
