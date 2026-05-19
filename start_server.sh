@@ -40,6 +40,8 @@
 # EXAMPLE
 #   curl -O https://your-host/start_server.sh && sudo bash start_server.sh
 #
+# AUTHOR:
+# Brayan Noel Espinosa Damián
 # =============================================================================
 
 set -euo pipefail
